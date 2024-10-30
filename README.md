@@ -4,22 +4,19 @@
 
 
 ```
-danikzaks:~$ fetchme
-           (                .  danikzaks@logout
-            )               │
-           (                ├─ Uptime ~ 20years
-    /\  .-"""-.  /\         ├─ OS ~ Arch Linux, Windows
-   //\\/  ,,,  \//\\        ├─ Languages ~ Python, Go, Kotlin, Shell
-   |/\| ,;;;;;, |/\|        ├─ DE ~ BSPWM/XFCE
-   //\\\;-"""-;///\\        ├─ Shell ~ zsh
-  //  \/   .   \/  \\       ├─ Terminal ~ Kitty
- (| ,-_| \ | / |_-, |)      ├─ Editor ~ Pycharm, VSCode, Android Studio
-   //`__\.-.-./__`\\        └─ Hobbies ~ Networks 
-  // /.-(() ())-.\ \\"
- (\ |)   '---'   (| /)      
-  ` (|           |) `      
-    \)           (/         
-                            
-                            
+danikzaks@macOS ~ % fetchme
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀danikzaks@macOS
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣷⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀├─ Uptime ~ 20 years
+⠀⠀⠀⠀⠀⢀⣠⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀├─ OS ~ MacOS, Linux
+⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀├─ Languages ~ Python, Go, Shell
+⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠀⠀⠀⠀⠀├─ DE ~ BSPWM/XFCE
+⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀├─ Shell ~ zsh
+⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀├─ Terminal ~ Kitty
+⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀├─ Editor ~ Pycharm, VSCode
+⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀└─ Hobbies ~ Networks, Security
+⠀⠈⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟
+⠀⠀⠀⠀⠀⠉⠛⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠛⠉
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⠛⠿⠿⠛⠋⠁⠀⠀⠀⠀⠀  
 ```
 
