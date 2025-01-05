@@ -15,15 +15,8 @@
 ### 🏆 Achievements & Stats
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=danikzaks&theme=onedark&no-frame=true&column=7" alt="danikzaks trophies" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danikzaks&show_icons=true&theme=radical" alt="danikzaks stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danikzaks&theme=radical" alt="danikzaks streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danikzaks&layout=compact&theme=radical" alt="danikzaks top languages" />
 </p>
 
 ---
