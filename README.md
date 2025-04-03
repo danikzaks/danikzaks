@@ -1,6 +1,6 @@
 ### 🏆 Achievements & Stats
 
-<p align="center">
+<p align="center" style="flex">
   <img src="https://github-readme-stats.vercel.app/api?username=danikzaks&show_icons=true&theme=blue_navy" alt="danikzaks stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danikzaks&theme=blue_navy" alt="" />
 </p>
